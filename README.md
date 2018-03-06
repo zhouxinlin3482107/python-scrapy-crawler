@@ -9,4 +9,6 @@
 4.python-scrapy-crawler/scrapy_project/scrapy_project/spiders/loewe.py获取了start_urls页面
 里面的数据
 
+5.相关的配置项在middlewares.py，pipelines.py，settings.py，/extras/utils.py 文件中
+
 
