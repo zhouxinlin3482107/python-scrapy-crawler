@@ -1,3 +1,5 @@
+# python-scrapy-crawler
+
 1.这是一个python写的基于scrapy框架的爬虫项目
 
 2.python-scrapy-crawler/scrapy_project/scrapy_project/spiders/lianjia.py这个文件主要是
