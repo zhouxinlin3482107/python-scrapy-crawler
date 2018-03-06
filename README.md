@@ -11,4 +11,6 @@
 
 5.相关的配置项在middlewares.py，pipelines.py，settings.py，/extras/utils.py 文件中
 
+6./result_data 下面存放了对应的爬取结果数据
+
 
